@@ -85,3 +85,4 @@ production:
   database: bird_app_production
   username: bird_app
   password: <%= ENV["DATABASE_URL"] %>
+ 
